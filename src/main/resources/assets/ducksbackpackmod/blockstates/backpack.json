@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "ducksbackpackmod:block/backpack" },
+    "facing=south": { "model": "ducksbackpackmod:block/backpack", "y": 180 },
+    "facing=east": { "model": "ducksbackpackmod:block/backpack", "y": 90  },
+    "facing=west": { "model": "ducksbackpackmod:block/backpack", "y": 270 }
+  }
+}

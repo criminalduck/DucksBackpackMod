@@ -1,7 +1,11 @@
 {
-  "item.ducksbackpackmod.backpack": "Backpack",
+  "block.ducksbackpackmod.backpack": "Backpack",
+  "block.ducksbackpackmod.workbench": "Backpack Workbench",
 
-  "block.ducksbackpackmod.backpack_workbench": "Backpack Workbench",
+  "item.ducksbackpackmod.storage_upg": "Storage Upgrade",
+  "item.ducksbackpackmod.ender_upg": "Ender Upgrade",
+  "item.ducksbackpackmod.lantern_upg": "Lantern Upgrade",
+  "item.ducksbackpackmod.teleporter_upg": "Teleporter Upgrade",
 
   "creativetab.ducksbackpackmod_tab": "Duck's Backpacks"
 }
